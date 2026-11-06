@@ -1,1 +1,2 @@
 - VSD-2 y VSD-3: listos para pruebas
+- VSD-3: corregido el guardado del catálogo
